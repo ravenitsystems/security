@@ -1,0 +1,19 @@
+{
+  "name": "ravenitsystems/security",
+  "description": "Security module",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Nicholas Ashley",
+      "email": "ravenitsystems@outlook.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "autoload": {
+    "psr-4": {
+      "ravenitsystems\\security\\": "src/"
+    }
+  },
+  "require": {}
+}
